@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Biaya Kepemilikan Mobil",
+  "description": "Kalkulator interaktif untuk membandingkan biaya kepemilikan bulanan antara mobil listrik (3 skenario), mobil hibrida, dan mobil BBM berdasarkan jarak tempuh harian atau bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
